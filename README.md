@@ -1,6 +1,6 @@
 # Hello World Node.js Application
 
-This is a simple Node.js application that creates an HTTP server and responds with "Hello, World!".
+This is a simple Node.js application that creates an HTTP server and responds with "Hello World".
 
 ## Prerequisites
 
